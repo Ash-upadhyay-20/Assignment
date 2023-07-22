@@ -13,7 +13,7 @@ To run this script, you need to have Node.js and a code editor installed on your
    Clone this repository to your local machine using the following command:
 
    ```
-   git clone <repository-url>
+   git clone (https://github.com/Ash-upadhyay-20/NFT.git)
    ```
 
 2. **Navigate to the project directory**:
